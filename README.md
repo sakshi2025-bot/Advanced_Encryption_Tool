@@ -80,3 +80,14 @@ The Advanced Encryption Tool is a robust and reliable solution for secure file e
 
 # Output
 
+<img width="1920" height="991" alt="Image" src="https://github.com/user-attachments/assets/19260dac-cb7b-4c1e-84be-47dfa12704aa" />
+
+
+<img width="1920" height="991" alt="Image" src="https://github.com/user-attachments/assets/f6a51a26-8c17-4ee2-865e-cf97f35aecba" />
+
+<img width="482" height="158" alt="Image" src="https://github.com/user-attachments/assets/00504762-5a0a-4757-a8d0-26066ad8c72e" />
+
+<img width="940" height="551" alt="Image" src="https://github.com/user-attachments/assets/ae53ac74-1e66-4ba5-88f2-c0f94a4b062b" />
+
+<img width="482" height="158" alt="Image" src="https://github.com/user-attachments/assets/e110ed88-0e4f-4a44-b560-2518728aa830" />
+
